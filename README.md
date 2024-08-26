@@ -4,7 +4,6 @@
 
 This repository contains the files of my Laboratory No. 1.
 
-## Files Included
+### Files Included
 
-- `BADILLA_Lab1.class`: a Java class file.
 - `BADILLA_Lab1.java`: main Java file.
